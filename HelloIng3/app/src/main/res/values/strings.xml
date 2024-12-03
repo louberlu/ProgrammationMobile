@@ -1,3 +1,194 @@
 <resources>
     <string name="app_name">HelloIng3</string>
+
+    //bienfait
+    <string name="bienfait_fonction">
+        Chef de Classe
+    </string>
+    <string name="bienfait_classe">
+            Elève de ING3
+    </string>
+    <string name="bienfait_etablissement">
+            /nIAI
+    </string>
+
+    //cabrel
+    <string name="cabrel_fonction">
+        Aucune
+    </string>
+    <string name="cabrel_classe">
+        Elève de ING3
+    </string>
+    <string name="cabrel_etablissement">
+        /nIAI
+    </string>
+
+    //Camarade anonyme
+    <string name="camarade_anonyme_fonction">
+        Masquotte
+    </string>
+    <string name="camarade_anonyme_classe">
+        Elève de ???
+    </string>
+    <string name="camarade_anonyme_etablissement">
+        /nForêt ???
+    </string>
+
+    //Christian
+    <string name="christian_fonction">
+        Aucune
+    </string>
+    <string name="christian_classe">
+        Elève de ING3
+    </string>
+    <string name="christian_etablissement">
+        /nIAI
+    </string>
+
+    //Doguy
+    <string name="doguy_fonction">
+        Aucune
+    </string>
+    <string name="doguy_classe">
+        Elève de ING3
+    </string>
+    <string name="doguy_etablissement">
+        /nIAI
+    </string>
+
+    //Eric
+    <string name="eric_fonction">
+        Aucune
+    </string>
+    <string name="eric_classe">
+        Elève de ING3
+    </string>
+    <string name="eric_etablissement">
+        /nIAI
+    </string>
+
+    //Eveline
+    <string name="eveline_fonction">
+        Aucune
+    </string>
+    <string name="eveline_classe">
+        Elève de ING3
+    </string>
+    <string name="eveline_etablissement">
+        /nIAI
+    </string>
+
+    //Fred
+    <string name="fred_fonction">
+        Aucune
+    </string>
+    <string name="fred_classe">
+        Elève de ING3
+    </string>
+    <string name="fred_etablissement">
+        /nIAI
+    </string>
+
+    //Janvier
+    <string name="janvier_fonction">
+        Aucune
+    </string>
+    <string name="janvier_classe">
+        Elève de ING3
+    </string>
+    <string name="janvier_etablissement">
+        /nIAI
+    </string>
+
+    //Karen
+    <string name="karen_fonction">
+        Sous-chef de classe
+    </string>
+    <string name="karen_classe">
+        Elève de ING3
+    </string>
+    <string name="karen_etablissement">
+        /nIAI
+    </string>
+
+    //Larry
+    <string name="larry_fonction">
+        Aucune
+    </string>
+    <string name="larry_classe">
+        Elève de ING3
+    </string>
+    <string name="larry_etablissement">
+        /nIAI
+    </string>
+
+    //Marina
+    <string name="marina_fonction">
+        Aucune
+    </string>
+    <string name="marina_classe">
+        Elève de ING3
+    </string>
+    <string name="marina_etablissement">
+        /nIAI
+    </string>
+
+    //Maurice
+    <string name="maurice_fonction">
+        Aucune
+    </string>
+    <string name="maurice_classe">
+        Elève de ING3
+    </string>
+    <string name="maurice_etablissement">
+        /nIAI
+    </string>
+
+    //Saly
+    <string name="saly_fonction">
+        Aucune
+    </string>
+    <string name="saly_classe">
+        Elève de ING3
+    </string>
+    <string name="saly_etablissement">
+        /nIAI
+    </string>
+
+    //Serge
+    <string name="serge_fonction">
+        Aucune
+    </string>
+    <string name="serge_classe">
+        Elève de ING3
+    </string>
+    <string name="serge_etablissement">
+        /nIAI
+    </string>
+
+    //Ted
+    <string name="ted_fonction">
+        Aucune
+    </string>
+    <string name="ted_classe">
+        Elève de ING3
+    </string>
+    <string name="ted_etablissement">
+        /nIAI
+    </string>
+
+    //Théodore
+    <string name="th_odore_fonction">
+        Aucune
+    </string>
+    <string name="th_odore_classe">
+        Elève de ING3
+    </string>
+    <string name="th_odore_etablissement">
+        /nIAI
+    </string>
+
+
+    <string name="name">Name</string>
+
 </resources>
